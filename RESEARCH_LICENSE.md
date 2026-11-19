@@ -8,8 +8,8 @@
 
 The following materials are licensed under the [Creative Commons Attribution 4.0 International License (CC BY 4.0)](https://creativecommons.org/licenses/by/4.0/):
 
-- The final academic research paper (PDF).
-- The final research presentation (PDF).
+- The [final academic research paper (PDF)](./MSBA-Capstone-White-Paper_Anthony-Nanfito.pdf).
+- The [final research presentation (PDF)](./MSBA-Capstone-Final-Presentation_Anthony-Nanfito.pdf).
 
 You are free to share and adapt these materials, including for commercial purposes, provided appropriate attribution is given, a link to the license is included, and any changes are indicated.
 
